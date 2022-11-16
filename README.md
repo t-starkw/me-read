@@ -15,14 +15,12 @@
   * [Questions](#questions)
 
   ## Installation
-  tbd
+  N/A
 
   ## Usage
-  To generate your own README for your next project or application, simply call the following command in your preferred terminal:
+  To generate your own README for your next project or application, simply call the following command in your preferred terminal and answer the prompts that follow:
   
   `node index.js`
-
-  and answer the prompts that follow.
 
   Need extra help? Watch this short [Demo Video](https://drive.google.com/file/d/13u9tuvpRXombxNO-_i4pHKKxXPshxyu6/view)
 
