@@ -6,7 +6,7 @@
 
   >![](./assets/demo-img.png)<br>
 
-  >View the sample README html [here](./assets/Sample%20README.md)
+  >View the sample README [here](./assets/Sample%20README.md)
 
   ## Table of Contents
   * [Installation](#installation)
