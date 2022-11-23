@@ -2,9 +2,11 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This application utilizes the inquirer NPM package to capture user input through the command line interface and generate a personalized README file.
+  >This application utilizes the inquirer NPM package to capture user input through the command line interface and generate a personalized README file.
 
-  ![](./assets/demo-img.png)
+  >![](./assets/demo-img.png)<br>
+
+  >View the sample README html [here](./assets/Sample%20README.md)
 
   ## Table of Contents
   * [Installation](#installation)
