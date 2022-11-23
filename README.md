@@ -4,7 +4,7 @@
   ## Description
   This application utilizes the inquirer NPM package to capture user input through the command line interface and generate a personalized README file.
 
-  ![](./assets/readme-gen-ss.png)
+  ![](./assets/demo-img.png)
 
   ## Table of Contents
   * [Installation](#installation)
